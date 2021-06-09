@@ -1,4 +1,4 @@
-FROM devopsedu/webapp
+FROM admin/webapp
 
 ADD website /var/www/html
 
